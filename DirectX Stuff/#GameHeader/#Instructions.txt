@@ -1,0 +1,6 @@
+Instructions for MyDirectX / EDirectX
+
+Set this directory as an include directory.
+Set </Text/freetype-2.10.2/objs> as an additional library directory
+
+These are for Debug Building
